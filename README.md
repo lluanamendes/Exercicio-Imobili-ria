@@ -1,0 +1,1 @@
+Exercício do curso de Front-end da DEVMEDIA. Missão: Criar uma página estilizada para uma imobilizaria colocando em pratica o que foi ensinado sobre background-color, img, listas, bordas e outros ensinamentos básicos de CSS e HTML.
